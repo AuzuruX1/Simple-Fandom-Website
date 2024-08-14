@@ -1,2 +1,2 @@
 # Simple-Fandom-Website
-Simple Fandom Website Komi San Cant
+Simple Fandom Website Komi San Cant Communicate
